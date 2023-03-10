@@ -1,12 +1,12 @@
 {
-  "name": "neo4jd3v2",
+  "name": "tractstack-neo4jd3",
   "version": "1.0.1",
-  "description": "Neo4jD3",
-  "main": "dist/neo4jd3.min.js",
+  "description": "Neo4jD3 helper function for Tract Stack",
+  "main": "index.js",
   "bugs": {
-    "url": "https://gitlab.com/at-risk-media/neo4jd3/issues"
+    "url": "https://gitlab.com/at-risk-media/tractstack-neo4jd3/issues"
   },
-  "homepage": "https://gitlab.com/at-risk-media/neo4jd3",
+  "homepage": "https://gitlab.com/at-risk-media/tractstack-neo4jd3",
   "keywords": [
     "neo4j",
     "d3.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/at-risk-media/neo4jd3.git"
+    "url": "https://gitlab.com/at-risk-media/tractstack-neo4jd3.git"
   },
   "license": "MIT",
   "scripts": {
