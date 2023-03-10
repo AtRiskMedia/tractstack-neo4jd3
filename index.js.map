@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","names":["Neo4jd3"],"sources":["src/index.js"],"sourcesContent":["\"use strict\";\n\nimport Neo4jd3 from \"./neo4jd3\";\n\nexport default Neo4jd3;\n"],"mappings":"AAAA,YAAY;;AAEZ,OAAOA,OAAO,MAAM,WAAW;AAE/B,eAAeA,OAAO"}
